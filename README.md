@@ -1,4 +1,4 @@
-# CodeAlpha — AI/ML Internship Projects
+# CodeAlpha — AI Internship Projects
 
 A portfolio of four full-stack AI/ML projects built during a CodeAlpha
 internship. Each task lives in its own self-contained subfolder with its
