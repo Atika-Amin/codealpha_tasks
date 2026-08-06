@@ -1,6 +1,6 @@
-# CodeAlpha — AI/ML Internship Projects
+# CodeAlpha — AI Internship Projects
 
-A portfolio of four full-stack AI/ML projects built during a CodeAlpha
+A portfolio of four full-stack AI projects built during CodeAlpha
 internship. Each task lives in its own self-contained subfolder with its
 own README, setup instructions, and (where relevant) architecture diagram
 — nothing here is shared between tasks, so any one of them can be run,
@@ -15,10 +15,6 @@ graded, or reused entirely on its own.
 | ✅ | **[Task 3 — Music Generation with AI](./CodeAlpha_MusicGenerationWithAI)** | Trains an LSTM on MIDI data to generate new music sequences, with a Markov-chain fallback and in-browser playback. | React (Vite) · Flask · music21 · TensorFlow/Keras · Tone.js |
 | ✅ | **[Task 4 — Object Detection and Tracking](./CodeAlpha_ObjectDetectionAndTracking)** | Real-time object detection and multi-object tracking on a webcam or uploaded video, with live annotated stream and per-class stats. | React (Vite) · Flask · OpenCV · YOLOv8 · ByteTrack |
 
-*(Folder names above assume `Task1_LanguageTranslationTool`,
-`Task2_FAQChatbot`, `Task3_MusicGenerationWithAI`,
-`Task4_ObjectDetectionTracking` — update the links if your actual folder
-names differ.)*
 
 ## Repository structure
 
